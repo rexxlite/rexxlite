@@ -60,8 +60,8 @@ status: "Hunting inefficiencies • Building zero-latency systems"
 ### 📊 Activity & Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rexxlite&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=8B949E" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxlite&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8B949E" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rexxlite&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF&sideLabels=8B949E&dates=8B949E" height="175" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rexxlite&theme=tokyonight" height="175" />
 </div>
 
 <br />
